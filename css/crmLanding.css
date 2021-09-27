@@ -23,6 +23,10 @@
     overflow: auto;
 }
 
+#nav-btns{
+    padding-left: 1.4em;
+}
+
 #useful{
     background-color: blue;
     color: white;
@@ -79,20 +83,20 @@
 
 #useful h1{
     padding-top: .1em;
-    padding-bottom: .5em;
+    padding-bottom: .9em;
     text-indent: .3em;
-    font-size: 1.8vh;
+    font-size: 4vh;
 }
 
 #useful h2{
-    padding-bottom: 1.5em;
+    padding-bottom: 1.9em;
     padding-left: .5em;
-    font-size: 1.5vh;
+    font-size: 2.5vh;
 }
 
 #useful h3{
-    font-size: 1.1vh;
-    padding-bottom: .5em;
+    font-size: 1.8vh;
+    padding-bottom: .8em;
 }
 
 #second_ipsum{
@@ -199,7 +203,7 @@
 }
 
 #busneeds h1{
-    font-size: 2vh;
+    font-size: 3vh;
     text-align: center;
     padding-top: 4em;
     padding-bottom: 1em;
@@ -225,4 +229,18 @@
 
 #squarepics col-3{
     border: solid 1px black;
+}
+
+#landend{
+    padding: 20px;
+    text-align: center;
+}
+
+#landend h1{
+    font-size: 3vh;
+    padding-top: .7em;
+}
+
+#landend h2{
+    font-size: 2vh;
 }
